@@ -1,0 +1,16 @@
+{
+  "name": "mmr-security-bot",
+  "version": "1.0.0",
+  "description": "MMR Advanced Cyber-Security and Moderation Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}

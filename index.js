@@ -35,9 +35,9 @@ let badWords = [
   "pussy", "jackass", "wanker", "bullshit", "prick", "cock", "twat", "dipshit",
   "free nitro", "discord.gifts", "crypto scam", "free gift card", "earn money fast",
   "dm for info", "clck.ru", "steamcommunity-nitro", "free-nitro", "get free nitro",
-  "hack", "cheat", "exploit", "selling accounts", "buy cheap",
+  "خرا", "زق", "exploit", "selling accounts", "buy cheap",
   "كلب", "حمار", "غبي", "يا ابن", "شرموطه", "منيوك", "قحبة", "تفو", "كس اختك", "كس امك",
-  "khara", "sharmouta", "kosomak", "kessokhtak", "gabi", "kalb", "homar"
+  "khara", "sharmouta", "kosomak", "kessokhtak", "gabi", "انيكك", "انيك امك"
 ];
 
 // دالة ذكية لفحص أو إنشاء روم لوق مخصصة ومحمية داخل السيرفر تلقائياً
